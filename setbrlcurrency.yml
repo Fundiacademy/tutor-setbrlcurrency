@@ -1,8 +1,8 @@
-name: setbrlcurrency
+name: setbwpcurrency
 version: 0.1.0
 patches:
   lms-env: |
     "PAID_COURSE_REGISTRATION_CURRENCY:
-	- "BRL"
-	- "R$"
+	- "BPW"
+	- "P$"
      "
